@@ -1,0 +1,14 @@
+/* order-confirmation */
+.order-confirmation{
+    font-family: Phetsarath;
+    margin: 100px;
+}
+.makeSpace{
+    margin-left: 50px;
+}
+.makeSpace a{
+    font-size: 1.3em;
+}
+p{
+    margin-bottom: 50px;
+}
